@@ -20,7 +20,9 @@ opencv-contrib-python -3.4.2.16
 
 ## Run
 
-Put your checkerboard picture in the **input\calib** folder, And ensure that the corresponding left and right view file names are **exactly the same！**like：
+Put your checkerboard picture in the **input\calib** folder, And ensure that the corresponding left and right view file names are **exactly the same！** 
+
+ like：
 
 --input\calib
 
